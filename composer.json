@@ -1,0 +1,12 @@
+{
+    "name": "phangoapp/showmedia",
+    "description": "Module for show media files in debug mode, no for use in production",
+    "license": "GPL",
+    "authors": [
+        {
+            "name": "Antonio de la Rosa",
+            "email": "webmaster@web-t-sys.com"
+        }
+    ],
+    "minimum-stability": "dev-master"    
+}
